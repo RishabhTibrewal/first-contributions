@@ -2259,6 +2259,7 @@
 - [Jaiden Crawford](https://github.com/Crawfish-h)
 - [Ashish Kumar](https://github.com/ASHISHKUMAR2411)
 - [Rachit Agarwal](https://github.com/rachitag112)
+- [Rishabh Tibrewal](https://github.com/RishabhTibrewal)
 - [Ivan Loeza](https://github.com/iloeza)
 - [Thinh Do Truong](https://github.com/lonelyknight2902)
 - [Ashutosh Mishra](https://github.com/ashutosh2706)
